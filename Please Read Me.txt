@@ -1,0 +1,13 @@
+Hai Luki, please change these files setting after moving the app folder to root.
+
+- application/config/config.php
+	change the base url
+
+- application/config/database.php
+	change the database information
+
+For the usual link to attendance page :
+[base_url]/greeting/attendance_beta
+
+Thank you :)
+
